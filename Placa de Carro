@@ -1,0 +1,11 @@
+function autorizarPlaca(placaVeiculo){
+  const placaNaoAutorizada = ['jwt3552', 'htg9045', 'rty5600', 'hbo1323']
+  const validarAcesso = placaNaoAutorizada.find ((placa) => placa ===
+  placaVeiculo)
+
+if(validarAcesso) == underfind && validarAcesso.length > 0){
+
+}
+return console.log("Bem vindo")
+}
+autorizarPlaca('jwt3552')
